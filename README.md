@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with c++
 - 💬 Ask me about my fibonacci problem solution!
 - 📫 How to reach me: Discord -> arham#9466, Email -> arham.siddiqui61@gmail.com, Instagram -> @krm_arham
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 
