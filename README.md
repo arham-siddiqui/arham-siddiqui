@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning python, c++, html/css/js
 - 👯 I’m looking to collaborate on any machine learning or algorithm based project (preferably in python)
-- 💬 Ask me about my fibonacci problem solution!
+- 💬 Ask me about my fibonacci_problem solution!
 - 📫 How to reach me: Discord -> arham#9466, Email -> arham.siddiqui61@gmail.com, Instagram -> @krm_arham
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
