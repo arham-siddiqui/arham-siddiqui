@@ -7,7 +7,7 @@
 - 💬 Ask me about my fibonacci_problem solution!
 - 📫 How to reach me: Discord -> arham#9466, Email -> arham.siddiqui61@gmail.com, Instagram -> @krm_arham
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have participated in 3 hackathons
 
 
 <!--
