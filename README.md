@@ -1,6 +1,6 @@
 ### 👋
 
-## I am an 8th grader at Juan Cabrillo Middle School attending the 49ers STEM Leadership Institute
+## 8th Grader @ Juan Cabrillo Middle School: 49ers STEM Leadership Institute
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning python, c++, html/css/js
 - 👯 I’m looking to collaborate on any machine learning or algorithm based project (preferably in python)
