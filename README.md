@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋
 
 ## I am an 8th grader at Juan Cabrillo Middle School attending the 49ers STEM Leadership Institute
 - 🔭 I’m currently working on my personal website
