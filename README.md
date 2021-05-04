@@ -1,6 +1,4 @@
 ### 👋
-
-## 8th Grader @ Juan Cabrillo Middle School: 49ers STEM Leadership Institute
 <!--
 I am:
 - currently working on my personal website
