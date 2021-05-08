@@ -1,4 +1,4 @@
-### This profile looks better in dark mode 😁
+### 🧠
 <!--
 I am:
 - currently working on my personal website
