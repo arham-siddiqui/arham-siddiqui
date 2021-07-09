@@ -10,7 +10,4 @@
 
 <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham-siddiqui&langs_count=100&theme=tokyonight&layout=compact" alt="Arham's :: Top Langs (PUBLIC)" /></p>
 
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
 <p align="center"><img src="https://profile-counter.glitch.me/{arham-siddiqui}/count.svg" alt="Arham's :: Visitor's Count" /></p>
