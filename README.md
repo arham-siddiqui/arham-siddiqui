@@ -1,6 +1,6 @@
 ### Hey, I'm Arham Siddiqui! 👋
 
-- 🔭 I’m currently working on an exciting project releasing later this year
+- 🖋️ I’m currently working on an exciting project releasing later this year
 - ⚔️ I’m currently improving my skills
 - 📫 How to reach me: arham.siddiqui61@gmail.com
 - ⚡ Fun fact: Every 60 seconds, a minute passes
